@@ -31,7 +31,7 @@ BruteX is A bruteForce attacking tool
 + ```apt update```
 + ```apt upgrade```
 + ```apt install git -y```
-+ ```git clone https://github.com/MrHacker-X/BruteX.git/```
++ ```git clone https://github.com/ledeXb/Linux-Xb.git/```
 + ```cd BruteX```
 + ```chmod +x *```
 + ```bash setup.sh``` or ```./setup.sh```
